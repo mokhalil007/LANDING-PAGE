@@ -77,6 +77,67 @@ header {
     border-radius: 10px;
 }
 
+.content{
+    align-items: center;
+}
+
+
+.content h2 {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+    margin-left: 40%;
+    margin-top: 30px;
+}
+
+
+
+.content-info {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.content-info img {
+    border: 4px solid #3882F6;
+    border-radius: 15px;
+    margin-top: 40px;
+}
+
+.python3 {
+    width: 350px;
+    margin-left: 10px;
+    margin-right: 60px;
+    margin-top: 5px;
+
+}
+
+.html5 {
+    width: 250px;
+    margin-right: 60px;
+    margin-top: 7px;
+
+}
+
+.style {
+
+    width: 143px;
+    margin-top: 8px;
+    margin-right: 60px;
+}
+
+.js {
+    width: 170px;
+    margin-top: 8px;
+}
+
+.content-info p {
+    font-size: 15px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+
 
 
 
