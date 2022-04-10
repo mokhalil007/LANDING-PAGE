@@ -2,7 +2,6 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    
 }
 
 header {
@@ -15,6 +14,7 @@ header {
 .navbar li {
     display: inline-block;
     padding: 0 20px;
+    margin-right: 20px;
     
 }
 
@@ -37,3 +37,47 @@ header {
     margin-right: auto;
     padding: auto;
 }
+
+.hero {
+    display: flex;
+    justify-content: flex-end;
+    background-color: #1f2931;
+    align-items: center;
+
+}
+
+.me {
+    width: 350px;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+}
+
+.hero-txt h1 {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+    margin-top: 20px;
+    margin-right: 150px;
+  
+}
+
+.hero-txt p {
+    font-size: 18px;
+    color: #e5e7eb;
+    padding-top: 30px;
+}
+
+.hero-txt button {
+    background-color: #3882f6;
+    margin-top: 20px;
+    padding: 10px 15px;
+    color: #f9faf8;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+
+
+
+
