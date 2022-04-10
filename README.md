@@ -1,3 +1,3 @@
 # LANDING-PAGE
-# second odin proect 
+# second odin project 
 # html & css tutorial
